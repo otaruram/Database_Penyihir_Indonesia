@@ -1,0 +1,11 @@
+ID,Nama,Tanggal,Penyebab Kematian,Senjata,Usia,Gender,Ras/Spesies,Kota,Kerajaan,Gangguan Magis,Tingkat Ancaman,Kabur,Kristal Rekam
+1,Raden Bayu,02/01/24,Serangan Guna-guna,Keris Beracun,45,L,Siluman Api,Kota Senja,Kerajaan Bara,YA,Serangan,Tidak Kabur,TIDAK
+2,Dewi Sinta,03/01/24,Kutukan Cermin,Cermin Gaib,32,P,Peri Hutan,Lembah Hijau,Kerajaan Rimba,TIDAK,Lainnya,Tidak Kabur,TIDAK
+3,Guntur Watu,04/01/24,Serangan Golem,Gada Batu,28,L,Raksasa Gua,Gunung Kelam,Kerajaan Karst,YA,Serangan,Tidak Kabur,YA
+4,Cempaka Sayap Emas,04/01/24,Panah Beracun,Busur Racun,39,L,Garuda Langit,Menara Awan,Kerajaan Angin,TIDAK,Serangan,Tidak Kabur,TIDAK
+5,Baruna Naga Api,05/01/24,Ledakan Mantra,Jimat Api,22,L,Kurcaci Bara,Tambang Bara,Kerajaan Api,TIDAK,Serangan,Kendaraan,TIDAK
+6,Kenanga Putri Laut,06/01/24,Gigitan Kraken,Trisula Laut,34,P,Duyung Laut,Kota Karang,Kerajaan Samudra,TIDAK,Lainnya,Tidak Kabur,YA
+7,Kala Bayang,06/01/24,Pedang Bayangan,Pedang Bayangan,25,L,Manusia Bayangan,Kota Tersembunyi,Kerajaan Malam,TIDAK,Serangan,Tidak Kabur,TIDAK
+8,Jagad Bumi,07/01/24,Gempa Bumi,Palu Tanah,31,L,Centaur Bumi,Padang Rumput,Kerajaan Tanah,TIDAK,Serangan,Tidak Kabur,TIDAK
+9,Kirana Jaring Laba,07/01/24,Jaring Laba-laba,Jaring Sihir,41,L,Manusia Laba,Hutan Bintang,Kerajaan Bintang,YA,Lainnya,Tidak Kabur,TIDAK
+10,Petir Samber Nyawa,07/01/24,Sambaran Petir,Trisula Petir,37,L,Naga Langit,Puncak Badai,Kerajaan Badai,TIDAK,Serangan,Kaki,YA
